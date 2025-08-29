@@ -1,16 +1,21 @@
-# finance
+##Finance
+Finance flutter app ui
 
-A new Flutter project.
+## Screenshots
+Here are some glimpses of the app:
 
-## Getting Started
+![Home Screen](screenshots/dashboard.png)
+_The main dashboard showing your financial overview._
 
-This project is a starting point for a Flutter application.
+![Expense Tracking](screenshots/budget.png)
+_Showing your budget details_
 
-A few resources to get you started if this is your first Flutter project:
+![Investment](screenshots/investment.png)
+_View of your investment_
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Transaction](screenshots/transaction.png)
+_Recent transactions__
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Profile](screenshots/profile.png)
+_Profile page with user information_
+
